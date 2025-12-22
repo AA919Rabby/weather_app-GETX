@@ -23,4 +23,4 @@ Easy to check weather,temperature etc
 
 Download APK
 
-click here 
+click here https://drive.google.com/file/d/1MsB4FvPT6Hw80K_mEMIFXlExk8LWh9hE/view?usp=drive_link
