@@ -8,9 +8,13 @@ Features
 
 
 Search bar for search city
+
 Simple and clean user interface
+
 Lightweight and easy to understand
+
 Easy to check weather,temperature etc
+
 
 Download APK
 
