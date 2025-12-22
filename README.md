@@ -1,16 +1,12 @@
-# weather_app
+Weather App (Flutter)
+A simple and intuitive weather app built using Flutter,getx,REST api.
+This app demonstrates basic concepts of flutter,REST api(get method) and getx state management.
 
-A new Flutter project.
+Features
+Search bar for search city
+Simple and clean user interface
+Lightweight and easy to understand
+Easy to check weather,temperature etc
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Download APK
+Click here https://drive.google.com/file/d/1nqf5YNxecoXxvWAaB8iTApa9Ps8kAvGF/view?usp=drive_link
