@@ -20,6 +20,15 @@ Easy to check weather,temperature etc
 
 
 
+Technology used
+
+Getx state management
+
+Flutter for UI/UX design
+
+REST api with get method
+
+
 
 Download APK
 
